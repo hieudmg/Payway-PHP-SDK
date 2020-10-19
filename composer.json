@@ -1,0 +1,14 @@
+{
+  "name": "hieudmg/payway-api-sdk",
+  "description": "Payway api sdk",
+  "keywords": ["payment","payway"],
+  "homepage": "https://github.com/hieudmg/Payway-PHP-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hieu Duong Minh",
+      "email": "email@example.comhieudmg@gmail.com",
+      "homepage": "https://github.com/hieudmg/"
+    }
+  ]
+}
